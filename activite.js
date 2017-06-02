@@ -1,1 +1,1 @@
-alert("bonjour");
+alert("Bonjour, quelle heure est-il ?");
